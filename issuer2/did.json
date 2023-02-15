@@ -1,4 +1,22 @@
 {
-  "id": "did:web:github.com:zrl-identity:public-keys:blob:main:issuer2",
-  "created": "2023-02-14T08:05:22.293Z"
+  "id": "did:web:zrl-identity.github.io:public-keys:issuer2",
+  "created": "2023-01-31T08:05:22.293Z",
+  "updated": "2022-01-31T08:05:22.293Z",
+  "@context": [
+    "https://w3id.org/security/v2"
+  ],
+  "service": [],
+  "verificationMethod": [
+    {
+      "type": "Ed25519VerificationKey2020",
+      "id": "did:web:zrl-identity.github.io:public-keys:issuer2#ed1",
+      "publicKeyMultibase": "z6MknCCLeeHBUaHu4aHSVLDCYQW9gjVJ7a63FpMvtuVMy53T",
+      "controller": "did:web:zrl-identity.github.io:public-keys:issuer2"
+    }
+  ],
+  "keyAgreement": [],
+  "assertionMethod": [
+    "did:web:zrl-identity.github.io:public-keys:issuer2#ed1"
+  ],
+  "authentication": []
 }
