@@ -11,6 +11,7 @@
       "type": "Ed25519VerificationKey2020",
       "id": "did:web:zrl-identity.github.io:public-keys:issuer2#ed1",
       "publicKeyMultibase": "z6MknCCLeeHBUaHu4aHSVLDCYQW9gjVJ7a63FpMvtuVMy53T",
+      "publicKeyHex": "730197cfd86bc84bee128f9c05c2d30569e7afd9018f1dbfd714cc9ddb60b61e",
       "controller": "did:web:zrl-identity.github.io:public-keys:issuer2"
     }
   ],
