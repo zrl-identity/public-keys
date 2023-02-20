@@ -1,5 +1,5 @@
 {
-  "id": "did:web:github.com:zrl-identity:public-keys:issuer1",
+  "id": "did:web:zrl-identity.github.io:public-keys:issuer1",
   "created": "2023-01-31T08:05:22.293Z",
   "updated": "2022-01-31T08:05:22.293Z",
   "@context": [
@@ -9,14 +9,14 @@
   "verificationMethod": [
     {
       "type": "Bls12381G2Key2020",
-      "id": "did:web:github.com:zrl-identity:public-keys:issuer1#bbs",
+      "id": "did:web:zrl-identity.github.io:public-keys:issuer1#bbs",
       "publicKeyBase58": "oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7Ytu",
-      "controller": "did:web:github.com:zrl-identity:public-keys:issuer1"
+      "controller": "did:web:zrl-identity.github.io:public-keys:issuer1"
     }
   ],
   "keyAgreement": [],
   "assertionMethod": [
-    "did:web:github.com:zrl-identity:public-keys:issuer1#bbs"
+    "did:web:zrl-identity.github.io:public-keys:issuer1#bbs"
   ],
   "authentication": []
 }
